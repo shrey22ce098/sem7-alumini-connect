@@ -1,0 +1,49 @@
+2025-08-23T07:16:52.618Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68a93776d44a88a72b03eefc","email":"dishang@gmail.com","role":"collegeadmin"}
+2025-08-23T08:38:35.268Z | Admin: 6881f866568f154147e8b96b | Action: APPROVE_USER | Details: {"userId":"68a97ddb5d9a6cfb104d42d1"}
+2025-08-23T09:04:02.208Z | Admin: 68a93776d44a88a72b03eefc | Action: APPROVE_USER | Details: {"userId":"68a982a80ba09d06d57dd830"}
+2025-08-23T09:43:41.191Z | Admin: 6881f866568f154147e8b96b | Action: APPROVE_USER | Details: {"userId":"68a98925d5e8504667ba9ef4"}
+2025-08-23T09:55:38.248Z | Admin: 6881f866568f154147e8b96b | Action: APPROVE_USER | Details: {"userId":"68a98feff6b93e1fbf4ba58d"}
+2025-08-23T09:58:16.450Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68a98feff6b93e1fbf4ba58d","email":"dishang@gmail.com","role":"collegeadmin"}
+2025-08-23T11:31:22.961Z | Admin: 6881f866568f154147e8b96b | Action: APPROVE_USER | Details: {"userId":"68a9a67d101c2dc8a679dfd3"}
+2025-08-23T11:32:07.201Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68a97ddb5d9a6cfb104d42d1","email":"veer@gmail.com","role":"professor"}
+2025-08-23T11:59:54.548Z | Admin: 6881f866568f154147e8b96b | Action: APPROVE_USER | Details: {"userId":"68a9a994101c2dc8a679e00d"}
+2025-08-23T13:26:24.769Z | Admin: 6881f866568f154147e8b96b | Action: APPROVE_STUDENT | Details: {"studentId":"68a9a995101c2dc8a679e00f"}
+2025-08-23T14:46:12.778Z | Admin: 6881f866568f154147e8b96b | Action: APPROVE_USER | Details: {"userId":"68a9d42d879b7322315b02d0"}
+2025-08-23T15:06:49.247Z | Admin: 6881f866568f154147e8b96b | Action: APPROVE_USER | Details: {"userId":"68a9d900056d22bf9db22669"}
+2025-08-23T15:10:24.440Z | Admin: 6881f866568f154147e8b96b | Action: APPROVE_USER | Details: {"userId":"68a9d9b9056d22bf9db226a9"}
+2025-08-23T15:17:35.922Z | Admin: 68a9d900056d22bf9db22669 | Action: APPROVE_USER | Details: {"userId":"68a9db54b71dc7db73c94f51"}
+2025-08-23T15:22:05.559Z | Admin: 68a9d900056d22bf9db22669 | Action: UPDATE_USER | Details: {"userId":"68a9d9b9056d22bf9db226a9","email":"rahul@gmail.com","role":"professor"}
+2025-08-23T15:22:23.927Z | Admin: 68a9d900056d22bf9db22669 | Action: UPDATE_USER | Details: {"userId":"68a9d900056d22bf9db22669","email":"ramesh@gmail.com","role":"collegeadmin"}
+2025-08-23T15:25:36.838Z | Admin: 68a9d900056d22bf9db22669 | Action: UPDATE_USER | Details: {"userId":"68a9d900056d22bf9db22669","email":"ramesh@gmail.com","role":"collegeadmin"}
+2025-08-23T15:26:26.114Z | Admin: 68a9d900056d22bf9db22669 | Action: UPDATE_USER | Details: {"userId":"68a98feff6b93e1fbf4ba58d","email":"dishang@gmail.com","role":"collegeadmin"}
+2025-08-23T15:31:17.091Z | Admin: 68a9d900056d22bf9db22669 | Action: UPDATE_USER | Details: {"userId":"68a9a994101c2dc8a679e00d","email":"neel@gmail.com","role":"student"}
+2025-08-23T15:31:45.510Z | Admin: 68a9d900056d22bf9db22669 | Action: UPDATE_USER | Details: {"userId":"68a9d9b9056d22bf9db226a9","email":"rahul@gmail.com","role":"professor"}
+2025-08-23T15:32:08.672Z | Admin: 68a9d900056d22bf9db22669 | Action: UPDATE_USER | Details: {"userId":"68a9d9b9056d22bf9db226a9","email":"rahul@gmail.com","role":"professor"}
+2025-08-23T15:46:02.141Z | Admin: 68a9d900056d22bf9db22669 | Action: UPDATE_USER | Details: {"userId":"68a9d9b9056d22bf9db226a9","email":"rahul@gmail.com","role":"professor"}
+2025-08-23T15:52:12.988Z | Admin: 68a9d900056d22bf9db22669 | Action: UPDATE_USER | Details: {"userId":"68a9d9b9056d22bf9db226a9","email":"rahul@gmail.com","role":"professor"}
+2025-08-23T15:52:33.292Z | Admin: 68a9d900056d22bf9db22669 | Action: UPDATE_USER | Details: {"userId":"68a9d9b9056d22bf9db226a9","email":"rahul@gmail.com","role":"professor"}
+2025-08-23T15:54:54.249Z | Admin: 68a9d900056d22bf9db22669 | Action: UPDATE_USER | Details: {"userId":"68a9d9b9056d22bf9db226a9","email":"rahul@gmail.com","role":"professor"}
+2025-08-23T15:57:25.880Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68a9d9b9056d22bf9db226a9","email":"rahul@gmail.com","role":"professor"}
+2025-08-23T16:01:29.699Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68a9d9b9056d22bf9db226a9","email":"rahul@gmail.com","role":"professor"}
+2025-08-24T09:48:59.076Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68a9d9b9056d22bf9db226a9","email":"rahul@gmail.com","role":"professor"}
+2025-08-24T09:57:59.902Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68a9d900056d22bf9db22669","email":"ramesh@gmail.com","role":"collegeadmin"}
+2025-08-24T09:58:36.202Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68a9db54b71dc7db73c94f51","email":"anil@gmail.com","role":"alumni"}
+2025-08-24T09:58:45.515Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68a9db54b71dc7db73c94f51","email":"anil@gmail.com","role":"alumni"}
+2025-08-24T10:06:17.257Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68a9d900056d22bf9db22669","email":"Ramesh@gmail.com","role":"collegeadmin"}
+2025-08-24T10:06:34.082Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68a9d900056d22bf9db22669","email":"ramesh@gmail.com","role":"professor"}
+2025-08-24T10:06:44.900Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68a9d900056d22bf9db22669","email":"ramesh@gmail.com","role":"collegeadmin"}
+2025-08-24T10:09:47.106Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68a9d9b9056d22bf9db226a9","email":"rahul@gmail.com","role":"professor"}
+2025-08-24T10:13:20.176Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68a9d9b9056d22bf9db226a9","email":"rahul@gmail.com","role":"professor"}
+2025-08-24T11:15:34.156Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68aaf44c7dca9ec4bd956382","email":"ramesh@gmail.com","role":"collegeadmin"}
+2025-08-24T11:15:43.039Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68aaf44c7dca9ec4bd956382","email":"ramesh@gmail.com","role":"collegeadmin"}
+2025-08-24T11:23:17.115Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68aaf44c7dca9ec4bd956382","email":"ramesh@gmail.com","role":"collegeadmin","department":"CSPIT123","branch":""}
+2025-08-24T11:24:06.793Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68aaf44c7dca9ec4bd956382","email":"ramesh@gmail.com","role":"collegeadmin","department":"CSPIT","branch":""}
+2025-08-24T11:24:15.994Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68aaf44c7dca9ec4bd956382","email":"ramesh@gmail.com","role":"professor","department":"CSPIT","branch":"Computer Engineering"}
+2025-08-24T11:25:30.514Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68aaf44c7dca9ec4bd956382","email":"ramesh@gmail.com","role":"collegeadmin","department":"CSPIT","branch":"Computer Engineering"}
+2025-08-24T11:54:27.266Z | Admin: 68aaf77d900796668d4956dd | Action: APPROVE_USER | Details: {"userId":"68aaf9a0934bf889e12bd792"}
+2025-08-24T12:04:20.658Z | Admin: 68aaf77d900796668d4956dd | Action: APPROVE_USER | Details: {"userId":"68aafecda299f398c1000198"}
+2025-08-24T12:10:13.453Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68aafecda299f398c1000198","email":"ramesh@gmail.com","role":"alumni","department":"CSPIT","branch":"Computer Engineering"}
+2025-08-24T12:14:32.906Z | Admin: 6881f866568f154147e8b96b | Action: UPDATE_USER | Details: {"userId":"68aafecda299f398c1000198","email":"ramesh@gmail.com","role":"alumni","department":"CSPIT","branch":"Computer Engineering"}
+2025-08-24T14:00:41.983Z | Admin: 68ab07f8e4a14da133886a6a | Action: APPROVE_STUDENT | Details: {"studentId":"68ab1af238b841e9365592f2"}
+2025-08-24T14:06:54.139Z | Admin: 68aaf77d900796668d4956dd | Action: APPROVE_USER | Details: {"userId":"68ab1c5538b841e93655932a"}
+2025-08-24T14:07:01.725Z | Admin: 68aaf77d900796668d4956dd | Action: APPROVE_STUDENT | Details: {"studentId":"68ab1bc238b841e93655931c"}
